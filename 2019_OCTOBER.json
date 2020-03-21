@@ -1,0 +1,198 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 416323658,
+        "longitudeE7" : -862084244,
+        "placeId" : "ChIJE7_pN2TMFogRtIm5MIPNImM",
+        "address" : "17559 Battles St\nSouth Bend, IN 46614\nUSA",
+        "name" : "17559 Battles St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1574620782
+        },
+        "locationConfidence" : 98.72782
+      },
+      "duration" : {
+        "startTimestampMs" : "1570596212379",
+        "endTimestampMs" : "1571776395004"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 416324468,
+      "centerLngE7" : -862083843,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 416341281,
+        "longitudeE7" : -862090850,
+        "placeId" : "ChIJL2zEDmTMFogR-3BdO6sg6fg",
+        "locationConfidence" : 1.2667556
+      }, {
+        "latitudeE7" : 416302140,
+        "longitudeE7" : -862080420,
+        "placeId" : "ChIJ-XRIHGXMFogR92k0HsW7mvk",
+        "locationConfidence" : 0.002898371
+      }, {
+        "latitudeE7" : 416299733,
+        "longitudeE7" : -862084442,
+        "placeId" : "ChIJezT_u3PNFogRLTBeKc0bAoc",
+        "locationConfidence" : 0.002528438
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 416323700,
+        "longitudeE7" : -862083511,
+        "sourceInfo" : {
+          "deviceTag" : -1574620782
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 416113656,
+        "longitudeE7" : -861842934,
+        "sourceInfo" : {
+          "deviceTag" : -1574620782
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1571776395004",
+        "endTimestampMs" : "1571776916598"
+      },
+      "distance" : 5111,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 99.01248937175585
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.545486862126172
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.26817495430584015
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 416320343,
+          "lngE7" : -862083511
+        }, {
+          "latE7" : 416227531,
+          "lngE7" : -861768264
+        }, {
+          "latE7" : 416143302,
+          "lngE7" : -861767807
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 416113656,
+        "longitudeE7" : -861842934,
+        "placeId" : "ChIJ7dg01eTLFogRK-ojk9ZFPRc",
+        "address" : "16333 Kern Rd\nMishawaka, IN 46544\nUSA",
+        "name" : "Meadow's Edge Elementary School",
+        "sourceInfo" : {
+          "deviceTag" : -1574620782
+        },
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1571776916598",
+        "endTimestampMs" : "1571780412286"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 416112290,
+      "centerLngE7" : -861839650,
+      "visitConfidence" : 91,
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 416113656,
+        "longitudeE7" : -861842934,
+        "sourceInfo" : {
+          "deviceTag" : -1574620782
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 416323700,
+        "longitudeE7" : -862083511,
+        "sourceInfo" : {
+          "deviceTag" : -1574620782
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1571780412286",
+        "endTimestampMs" : "1571780972040"
+      },
+      "distance" : 3075,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.67419683863693
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.5639745824264932
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.9284493350500991
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 416078224,
+          "lngE7" : -861842956
+        }, {
+          "latE7" : 416244812,
+          "lngE7" : -862155227
+        }, {
+          "latE7" : 416320343,
+          "lngE7" : -862083511
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 416323658,
+        "longitudeE7" : -862084244,
+        "placeId" : "ChIJE7_pN2TMFogRtIm5MIPNImM",
+        "address" : "17559 Battles St\nSouth Bend, IN 46614\nUSA",
+        "name" : "17559 Battles St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1574620782
+        },
+        "locationConfidence" : 98.96639
+      },
+      "duration" : {
+        "startTimestampMs" : "1571780972040",
+        "endTimestampMs" : "1573016266984"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 416325220,
+      "centerLngE7" : -862083432,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 416341281,
+        "longitudeE7" : -862090850,
+        "placeId" : "ChIJL2zEDmTMFogR-3BdO6sg6fg",
+        "locationConfidence" : 1.0295599
+      }, {
+        "latitudeE7" : 416302140,
+        "longitudeE7" : -862080420,
+        "placeId" : "ChIJ-XRIHGXMFogR92k0HsW7mvk",
+        "locationConfidence" : 0.0020552662
+      }, {
+        "latitudeE7" : 416299733,
+        "longitudeE7" : -862084442,
+        "placeId" : "ChIJezT_u3PNFogRLTBeKc0bAoc",
+        "locationConfidence" : 0.0019955707
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
